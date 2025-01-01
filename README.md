@@ -2,13 +2,11 @@
 <h3>A developer from IIT Roorkee</h3>
 
 ## About Me
----
 - 🔭 Currently working on **LabPlot**
 - 🏆 Secured 3rd place in the Blockchain Hackathon (Blockathon) at IIT Roorkee's tech fest, Cognizance! 🚀
 - 🌱 I’m currently learning **Go and Rust**
 
 ## Tech Stack 💻
----
 ```json
 {
   "languages": [
@@ -26,7 +24,7 @@
     "Qt",
     "Django"
   ],
-  "devops": [
+  "devOps": [
     "Docker",
     "Kubernetes",
     "Redis",
@@ -44,12 +42,11 @@
 - Exploring **Web3**.  
 
 ## Fun Facts 🎉  
----
 - KDE and Fedora fan for over 3 years.  
 
 ## Connect with Me 🌐  
----
 - **LinkedIn**: [Anish Tak](www.linkedin.com/in/anish-tak-28a984287)  
 - **Twitter**: [@DrowsyWings](https://x.com/DrowsyWings)  
-- **Discord**: [@drowsywings](discordapp.com/users/drowsywings)  
+- **Discord**: [@drowsywings](discordapp.com/users/drowsywings)
+---
 
