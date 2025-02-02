@@ -38,7 +38,7 @@
 ```
 
 ## Interests and Goals 🌟  
-- Passionate about **open-source contributions**.   
+- Passionate about **open-source contributions**. ([KDE's gitlab profile](https://invent.kde.org/drowsywings))
 - Exploring **Web3**.  
 
 ## Fun Facts 🎉  
