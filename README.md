@@ -19,6 +19,7 @@
     "Solidity"
   ],
   "frameworks_and_libraries": [
+    "Kirigami"
     "React",
     "Next.js",
     "Qt",
