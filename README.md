@@ -2,7 +2,7 @@
 <h3>A developer from IIT Roorkee</h3>
 
 ## About Me
-- 🔭 Currently working on **Win-2-Linux Project** under KDE organization [(Repo Link)](https://invent.kde.org/drowsywings/win-2-linux/)
+- 🔭 Currently working on **Mentorship Website of KDE** under KDE organization [(Repo Link)](https://invent.kde.org/paulb/kde-mentor-programs-g-so-c-2025-project)
 - 🏆 Secured 3rd place in the Blockchain Hackathon (Blockathon) at IIT Roorkee's tech fest, Cognizance! 🚀
 - 🌱 I’m currently learning **Go and Rust**
 
@@ -15,7 +15,6 @@
     "Go",
     "Python",
     "Java",
-    "Rust",
     "Solidity"
   ],
   "frameworks_and_libraries": [
