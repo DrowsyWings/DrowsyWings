@@ -1,11 +1,12 @@
 <h1>Hi 👋, I'm Drowsy Wings</h1>
 <h3>A developer from IIT Roorkee</h3>
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-drowsywings.qzz.io-blue)](https://drowsywings.qzz.io)
+
 ## About Me
 - 🔭 Currently working on **Mentorship Website of KDE** under KDE organization [(Repo Link)](https://invent.kde.org/paulb/kde-mentor-programs-g-so-c-2025-project)
 - 🏆 Secured 3rd place in the Blockchain Hackathon (Blockathon) at IIT Roorkee's tech fest, Cognizance! 🚀
 - 🌱 I’m currently learning **Go and Rust**
-- https://drowsywings.qzz.io/
 
 ## Tech Stack 💻
 ```json
@@ -38,9 +39,11 @@
 }
 ```
 
+> 💼 Explore my projects and resume at [drowsywings.qzz.io](https://drowsywings.qzz.io)
+
 ## Interests and Goals 🌟  
 - Passionate about **open-source contributions**. ([KDE's gitlab profile](https://invent.kde.org/drowsywings))
-- Exploring **Web3**.  
+- Exploring **Web3**.
 
 ## Fun Facts 🎉  
 - KDE and Fedora fan for over 3 years.  
