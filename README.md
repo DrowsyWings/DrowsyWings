@@ -5,7 +5,7 @@
 - 🔭 Currently working on **Mentorship Website of KDE** under KDE organization [(Repo Link)](https://invent.kde.org/paulb/kde-mentor-programs-g-so-c-2025-project)
 - 🏆 Secured 3rd place in the Blockchain Hackathon (Blockathon) at IIT Roorkee's tech fest, Cognizance! 🚀
 - 🌱 I’m currently learning **Go and Rust**
-- https://portfolio-4m12cir27-drowsywings-projects.vercel.app
+- https://drowsywings.qzz.io/
 
 ## Tech Stack 💻
 ```json
