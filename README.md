@@ -55,7 +55,7 @@ Most of my active OSS work is on GitLab, not GitHub.
 - KDE and Fedora fan for over 3 years.  
 
 ## Connect with Me 🌐  
-- **LinkedIn**: [Anish Tak](www.linkedin.com/in/anish-tak-28a984287)  
+- **LinkedIn**: [Anish Tak](www.linkedin.com/in/anish-tak)  
 - **Twitter**: [@DrowsyWings](https://x.com/DrowsyWings)  
 - **Discord**: [@drowsywings](discordapp.com/users/drowsywings)
 ---
