@@ -12,7 +12,7 @@ Most of my active OSS work is on GitLab, not GitHub.
 ## About Me
 - 🔭 Currently working on **Mentorship Website of KDE** under KDE organization [(Repo Link)](https://invent.kde.org/paulb/kde-mentor-programs-g-so-c-2025-project)
 - 🏆 Secured 3rd place in the Blockchain Hackathon (Blockathon) at IIT Roorkee's tech fest, Cognizance! 🚀
-- 🌱 I’m currently learning **Go and Rust**
+- 🌱 Currently learning **Go**
 
 ## Tech Stack 💻
 ```json
@@ -22,15 +22,12 @@ Most of my active OSS work is on GitLab, not GitHub.
     "C++",
     "Go",
     "Python",
-    "Java",
     "Solidity"
   ],
   "frameworks_and_libraries": [
-    "Kirigami"
-    "React",
+    "Kirigami",
     "Next.js",
     "Qt",
-    "Django"
   ],
   "devOps": [
     "Docker",
